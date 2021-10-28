@@ -1,0 +1,16 @@
+#bx{
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+
+#edad{
+    position: relative;
+    left: 22px;
+    /* top: 10px; */
+}
+
+#nombre{
+    position: relative;
+    top: 5px;
+}
